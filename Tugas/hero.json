@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Brimstone",
+      "birth_date": "1970-05-08",
+      "Position": "Controller",
+      "International": "USA",
+      "Team": "VALORANT",
+      "Poster": "https://ibb.co.com/f2kvpB0"
+    },
+    {
+      "no": "2",
+      "name": "Sage",
+      "birth_date": "2001-03-24",
+      "Position": "Sentinel",
+      "International": "China",
+      "Team": "VALORANT",
+      "Poster": "https://ibb.co.com/vhr83gw"
+    },
+    {
+      "no": "3",
+      "name": "Raze",
+      "birth_date": "1997-12-19",
+      "Position": "Duelist",
+      "International": "Brazil",
+      "Team": "VALORANT",
+      "Poster": "https://ibb.co.com/vVtHRSb"
+    },
+    {
+      "no": "4",
+      "name": "Phoenix",
+      "birth_date": "1998-12-17",
+      "Position": "Duelist",
+      "International": "United Kingdom",
+      "Team": "VALORANT",
+      "Poster": "https://ibb.co.com/NtFg1nw"
+    },
+    {
+      "no": "5",
+      "name": "Jett",
+      "birth_date": "1999-01-14",
+      "Position": "Duelist",
+      "International": "South Korea",
+      "Team": "VALORANT",
+      "Poster": "https://ibb.co.com/cwDY4Kk"
+    },
+    {
+      "no": "6",
+      "name": "Killjoy",
+      "birth_date": "2001-09-05",
+      "Position": "Sentinel",
+      "International": "Germany",
+      "Team": "VALORANT",
+      "Poster": "https://ibb.co.com/pRHckpQ"
+    },
+    {
+      "no": "7",
+      "name": "Cypher",
+      "birth_date": "1997-04-03",
+      "Position": "Sentinel",
+      "International": "Morocco",
+      "Team": "VALORANT",
+      "Poster": "https://ibb.co.com/R2QZXf5"
+    },
+    {
+      "no": "8",
+      "name": "Sova",
+      "birth_date": "1995-10-19",
+      "Position": "Initiator",
+      "International": "Russia",
+      "Team": "VALORANT",
+      "Poster": "https://ibb.co.com/cFCRw9h"
+    },
+    {
+      "no": "9",
+      "name": "Viper",
+      "birth_date": "1985-07-16",
+      "Position": "Controller",
+      "International": "USA",
+      "Team": "VALORANT",
+      "Poster": "https://ibb.co.com/k2mVpGD"
+    },
+    {
+      "no": "10",
+      "name": "Reyna",
+      "birth_date": "1991-11-25",
+      "Position": "Duelist",
+      "International": "Mexico",
+      "Team": "VALORANT",
+      "Poster": "https://ibb.co.com/rms82X6"
+    }
+  ]
+}
